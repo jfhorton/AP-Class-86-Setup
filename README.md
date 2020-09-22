@@ -1,6 +1,6 @@
 # AP-Class-86-Setup
 
-This script provides a convenient and intuitive way to set up the [Armstrong Powerhouse Class 86](https://www.armstrongpowerhouse.com/class_86_enhancement_pack)
+This script provides a convenient and intuitive way to set up the [Armstrong Powerhouse Class 86](https://www.armstrongpowerhouse.com/class_86_enhancement_pack).
 
 ## Usage
 To use this script, either copy the contents this script into ScenarioScript.lua or use it as a starting point for your scenario script.
