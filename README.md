@@ -6,6 +6,7 @@ This script provides a convenient and intuitive way to set up the [Armstrong Pow
 To use this script, either copy the contents this script into ScenarioScript.lua or use it as a starting point for your scenario script.
 
 In order for the script to run on startup, you need to create a trigger instruction on your player train called 'Setup' which should be the first instruction in the list.
+
 ![](trigger.png)
 
 You must then edit the scenario script according to your requirements.
