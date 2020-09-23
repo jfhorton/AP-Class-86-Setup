@@ -3,8 +3,8 @@ OFF = 0
 ON = 1
 
 -- Reverser states
-REVERSE = 1
-NEUTRAL = 1
+REVERSE = -1
+NEUTRAL = 0
 FORWARD = 1
 
 -- Brake states
